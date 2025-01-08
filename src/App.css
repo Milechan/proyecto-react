@@ -10,3 +10,11 @@
   align-items: center;
   flex-direction: row;
 }
+body {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+  -webkit-text-stroke-width: 0.5px;
+   -webkit-text-stroke-color: black;
+   background-color: #f0e4ee;
+}
