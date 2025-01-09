@@ -11,7 +11,7 @@ import mileuwu from "./assets/mileuwu.png"
 import Navbar from './components/Navbar'
 import Jumbotron from './components/Jumbotron'
 import Footer from './components/Footer'
-
+import 'bootstrap'
 function App() {
   const [count, setCount] = useState(0)
   ///......
